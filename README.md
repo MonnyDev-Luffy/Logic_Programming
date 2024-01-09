@@ -19,7 +19,7 @@
 |----|---------------------------------|--------|
 |  1  | Hello World!                     |    ✅   |
 |  2  | Two Sum                   |    ✅   |
-|  3  | Add two numbers             |      |
+|  3  | Add two numbers             |   ✅   |
 |  4  | Longest substring without repeating characters    |       |
 |  5  | Median of two sorted arrays         |       |
 |  6  | Longest palindromic substring          |        |
