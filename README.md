@@ -22,7 +22,7 @@
 |  3  | Add two numbers             |   ✅   |
 |  4  | Longest substring without repeating characters    |   ✅    |
 |  5  | Median of two sorted arrays         |   ✅    |
-|  6  | Longest palindromic substring          |        |
+|  6  | Longest palindromic substring          |    ✅    |
 |  7  | ZigZag conversion                |        |
 |  8  | Reverse integer        |        |
 |  9  | String to integer (atoi)                  |        |
