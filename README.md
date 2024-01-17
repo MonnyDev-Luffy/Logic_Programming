@@ -25,7 +25,7 @@
 |  6  | Longest palindromic substring          |    ✅    |
 |  7  | ZigZag conversion                |    ✅    |
 |  8  | Reverse integer        |    ✅    |
-|  9  | String to integer (atoi)                  |        |
+|  9  | String to integer (atoi)                  |    ✅    |
 | 10 | 	Palindrome number      |        |
 | 11 | 	Regular expression matching                    |        |
 | 12 | 	Container with most water              |        |
