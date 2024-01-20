@@ -27,7 +27,7 @@
 |  8  | Reverse integer        |    ✅    |
 |  9  | String to integer (atoi)                  |    ✅    |
 | 10 | 	Palindrome number      |    ✅    |
-| 11 | 	Regular expression matching                    |        |
+| 11 | 	Regular expression matching                    |    ✅    |
 | 12 | 	Container with most water              |        |
 | 13 | 	Integer to Roman                  |        |
 | 14 | 	Roman to Integer                        |        |
